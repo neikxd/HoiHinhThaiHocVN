@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	Hoi Hinh Thai Hoc VN - 2022
+	Hội Hình Thái Học Việt Nam
 	About: A shiny new Blocs website.
 	Author: Kien Dang
 	Version: 1.0
@@ -164,6 +164,11 @@ button{
 
 
 
+/* = Text & Icon Styles
+-------------------------------------------------------------- */
+.pressed-t{
+	text-shadow:0 1px 0 #FFF;
+}
 
 
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
@@ -246,9 +251,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Text colour styles */
 
-.tc-white{
-	color:#FFFFFF!important;
-}
 .tc-falu-red{
 	color:#7F1416!important;
 }
