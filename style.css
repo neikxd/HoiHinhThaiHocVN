@@ -169,6 +169,9 @@ button{
 .pressed-t{
 	text-shadow:0 1px 0 #FFF;
 }
+.glow-t{
+	text-shadow:0 0 10px #FFF;
+}
 
 
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
