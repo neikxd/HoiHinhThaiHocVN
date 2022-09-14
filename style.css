@@ -247,6 +247,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-weight:800;
 	width:100%;
 }
+.custom-divider{
+	margin:40px 0px 40px 0px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
